@@ -1,0 +1,1 @@
+This GitHub repository hosts a Spotify clone project, designed to mimic the functionality and user experience of the renowned music streaming platform, Spotify. The project aims to provide users with familiar features such as playlist creation, song searching, artist exploration, and personalized recommendations.
